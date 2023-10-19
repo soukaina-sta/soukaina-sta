@@ -1,9 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Soukaina Sghuri</title>
-</head>
 <body>
     <h1>Hi! I'm Soukaina SGHURI</h1>
     <p><strong>👋 Hi, I'm Soukaina Sghuri</strong></p>
@@ -11,8 +8,6 @@
     <p><strong>🌱 I am deeply fascinated by the intersection of technology, mathematics, and real-world problem-solving. Exploring innovative ways to leverage data for societal impact and business innovation captivates me. Additionally, I have a keen interest in artificial intelligence, data visualization, and natural language processing.</strong></p>
     <p><strong>💞️ My passion lies in harnessing the power of data to make informed decisions and create positive changes.</strong></p>
     <p><strong>📫 Email: <a href="mailto:soukainasghuri@um6p.ma">soukainasghuri@um6p.ma</a></strong></p>
-    <p><strong>LinkedIn: <a href="https://www.linkedin.com/in/soukaina-sghuri">soukaina-sghuri</a></strong></p>
-    <p><strong>GitHub: <a href="https://github.com/soukaina-sta">soukaina-sta</a></strong></p>
 </body>
 </html>
 <h3 align="center">Data Science Student</h3>
