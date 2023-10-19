@@ -1,8 +1,33 @@
 <!DOCTYPE html>
 <html>
+<!DOCTYPE html>
+<html>
 <head>
-    <title>Soukaina Sghuri</title>
+    <title>Soukaina Sghuri Animation</title>
+    <style>
+        @keyframes moveText {
+            0% {
+                transform: translateX(0);
+            }
+            50% {
+                transform: translateX(100px);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+
+        .animated-text {
+            font-size: 24px;
+            animation: moveText 3s linear infinite;
+        }
+    </style>
 </head>
+<body>
+    <h1 class="animated-text">Soukaina Sghuri</h1>
+</body>
+</html>
+
 <body>
     <h1>Hi! I'm Soukaina SGHURI</h1>
     <p><strong>👋 Hi, I'm Soukaina Sghuri</strong></p>
