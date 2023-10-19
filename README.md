@@ -1,3 +1,5 @@
+## Hi ! I'm Soukaina SGHURI
+
 - 👋  Hi, I'm Soukaina Sghuri
 - 👀 Hello! I'm Soukaina Sghuri, a dedicated data science student with a passion for unraveling the secrets hidden within data. My journey in the world of data science is driven by a profound curiosity about patterns 
       and insights that data can reveal. I find joy in exploring diverse datasets, applying machine learning algorithms, and transforming raw numbers into meaningful narratives.
